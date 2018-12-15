@@ -1,0 +1,64 @@
+一般的區塊要置中，就設margin auto
+overflow: hidden
+fontawesome
+
+https://codepen.io
+
+https://git-scm.com/
+C+R
+cmd
+cd desktop
+cd..
+mkdir git-test建資料夾
+rmdir git-test刪資料夾  
+echo hello>>001.txt新增檔案或touch
+del 001.txt刪檔案 
+
+
+rm 檔名
+
+dir 看裡面或ls
+dir/w 精簡看
+
+cls清除畫面 clear
+
+第一件事 init初始化
+git init
+git config --global user.name "zac"
+git config --global user.email ""
+git config -l
+
+
+git status
+紅色還在工作區
+綠色暫存區
+丟到暫存區>git add .
+丟回工作區>git rm --cached 002.txt
+
+提交git commit -m"first commit"
+git reset HEAD^
+
+git push -u origin master
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
