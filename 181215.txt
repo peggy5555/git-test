@@ -1,3 +1,4 @@
+https://github.com/a19860101/gjun-saturday/
 一般的區塊要置中，就設margin auto
 overflow: hidden
 fontawesome
@@ -40,6 +41,8 @@ git reset HEAD^
 
 git push -u origin master
 
+touch .gitignore
+code .
 
 
 
